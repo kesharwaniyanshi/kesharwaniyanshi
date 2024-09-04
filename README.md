@@ -38,6 +38,10 @@ I'm a passionate developer and problem solver currently pursuing a B.Tech in Com
 
 I’m always open to collaborating on exciting projects and innovative solutions. If you have an idea or want to build something awesome together, feel free to reach out!
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=kesharwaniyanshi&color=blue&style=flat-square)
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesharwaniyanshi&theme=highcontrast)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesharwaniyanshi&layout=compact)
 
