@@ -40,8 +40,6 @@ I’m always open to collaborating on exciting projects and innovative solutions
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kesharwaniyanshi&color=blue&style=flat-square)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesharwaniyanshi&theme=highcontrast)  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesharwaniyanshi&layout=compact)
 
