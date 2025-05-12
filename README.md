@@ -27,7 +27,7 @@ I'm a passionate developer and problem solver currently pursuing a B.Tech in Com
 
 
 ### 📫 Get in Touch!
-- **Portfolio**: [yanshi-kesharwani-portfolio](https://yanshi-kesharwani-portfolio-showcase.lovable.app/)
+- **Portfolio**: [yanshi-kesharwani-portfolio](https://yanshi-kesharwani-portfolio.vercel.app/)
 - **LinkedIn**: [linkedin.com/in/yanshi-kesharwani-57412624b/](https://www.linkedin.com/in/yanshi-kesharwani-57412624b/)
 - **GitHub**: [github.com/kesharwaniyanshi](https://github.com/kesharwaniyanshi)
 - **Email**: [kesharwaniyanshi@gmail.com](mailto:kesharwaniyanshi@gmail.com)
